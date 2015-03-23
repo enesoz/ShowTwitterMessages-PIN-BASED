@@ -68,7 +68,7 @@ public class InterviewTest {
 		// set flag to file is written or not
 
 		// Open result on browser
-		AuthorizationCodeInstalledApp.browse(bundle.getString("report.html"));
+		AuthorizationCodeInstalledApp.browse(bundle.getString("report.html.server"));
 		endTime = System.currentTimeMillis();
 
 		// if browser doesn't open write result to system.console
