@@ -10,4 +10,4 @@ it is include below services codes
  -show messages on browser with angular.js
 
 App Keywords :
-Easy Approche, Twitter Messages ,angular.js , oauth2.0 ,
+ Twitter Messages , oauth2.0 , PIN-BASED
